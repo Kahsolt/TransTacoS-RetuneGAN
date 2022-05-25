@@ -1,0 +1,10 @@
+# project meta
+.vscode/
+
+# cache
+__pycache__/
+.cache/
+*.py[cod]
+
+# misc
+ref/

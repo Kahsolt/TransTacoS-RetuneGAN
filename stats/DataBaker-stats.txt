@@ -1,0 +1,29 @@
+{ 'acode_len:avg': 312.1219,
+  'acode_len:max': 668,
+  'acode_len:min': 66,
+  'ap:max': 0.0,
+  'ap:min': -35.58398,
+  'dyn:max': 0.37510493,
+  'dyn:min': 0.0,
+  'f0:max': 7577.7227,
+  'f0:min': 0.0,
+  'mag:max': 2.3220108,
+  'mag:min': -8.0,
+  'mel:max': 0.3767597,
+  'mel:min': -8.0,
+  'n_frames': 3121219,
+  'n_hours': 40.26364646006551,
+  'n_utterances': 10000,
+  'num_note:max': 125,
+  'num_note:min': 37,
+  'pit:max': 11025.0,
+  'pit:min': 70.0,
+  'sp:max': 6.6273775,
+  'sp:min': -36.75616,
+  'text_len:avg': 16.2864,
+  'text_len:max': 34,
+  'text_len:min': 3}
+
+
+最长 007537.wav
+最短 007245.wav
